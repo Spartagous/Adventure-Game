@@ -1,16 +1,21 @@
 Adventure Game README
 
-Overview
+<-- Overview -->
 
 Welcome to the Adventure Game! This text-based game challenges you to explore various locations, gather essential items, and prepare for the Final Showdown. Your goal is to collect specific items scattered across different rooms and use them to defeat the dragon awaiting you.
 
-Getting Started
+<-- Setup -->
 
-Setup 
+Download the file. 
 
 Ensure you have Python installed to run the game script.
 
-Gameplay Basics
+Run the .py file by double clicking on it. This should open a termincal for the text based game.
+
+Follow the prompts and enjoy the game.
+
+
+<-- Gameplay Basics -->
 
 Navigation: Use directions (north, south, east, west) to move between rooms.
 
@@ -20,7 +25,7 @@ Inventory: Type inventory to see what items you currently possess.
 
 Quit: To exit the game at any time, type quit.
 
-Rooms and Items
+<-- Rooms and Items -->
 
 Explore a variety of rooms, each with its own description and items to collect. Here are some examples:
 
@@ -28,7 +33,7 @@ Explore a variety of rooms, each with its own description and items to collect. 
   Sorcerer Sanctum: Find the Elixir of Healing.
   Dragon Lair: Obtain the Dragon Scale Armor.  
   
-Winning the Game
+<-- Winning the Game -->
 
 To win, collect all of these items:
 
